@@ -1,0 +1,1 @@
+使用logstash同步mysql数据至elasticsearch
